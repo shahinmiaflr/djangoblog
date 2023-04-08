@@ -1,0 +1,15 @@
+Blog details list
+
+Blog Name
+Blog description
+
+Post
+
+title
+slug
+decription
+Feature image
+author
+date
+featured
+tag
